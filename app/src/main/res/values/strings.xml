@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cities Weather</string>
+
+    <string name="values_with_separator">%s&#160;-&#160;%s</string>
+    <string name="value_with_celsius">%s°C</string>
+    <string name="network_error">Connection error</string>
+    <string name="permission_denied">Permission Denied</string>
+
+    <string name="cities_activity_title">Cities</string>
+    <string name="cities_activity_weather">@string/values_with_separator</string>
+    <string name="cities_activity_country">&#160;-&#160;%s</string>
+    <string name="cities_activity_celsius">@string/value_with_celsius</string>
+
+    <string name="weather_detail_activity_percent">%s%%</string>
+    <string name="weather_detail_activity_celsius">@string/value_with_celsius</string>
+    <string name="weather_detail_activity_weather">@string/values_with_separator</string>
+</resources>
